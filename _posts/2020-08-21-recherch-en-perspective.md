@@ -4,7 +4,7 @@ title:  "Recherche en perspective"
 date:   2020-08-21 16:56:55 +0200
 categories: jekyll update
 ---
-Recherche en perspective, c'est le paris que s'est donné [Ohme](https://ohme.be/academia/recherche-en-perspective/) de rassembler des chercheurs et des étudiants en arts visuels dans un projet commun.
+Recherche en perspective, c'est le pari que s'est donné [Ohme](https://ohme.be/academia/recherche-en-perspective/) de rassembler des chercheurs et des étudiants en arts visuels dans un projet commun.
 
 Initié en 2018, c'est finalement en 2019 qu'un étudiant et une étudiante de [La Cambre arts visuels](https://www.lacambre.be/fr) ont retenu mon projet de recherche après une petite présentation enregistrée à l'avance et diffusée en mon absence.
 
