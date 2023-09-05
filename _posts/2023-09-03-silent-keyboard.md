@@ -27,7 +27,7 @@ When you press on a key cap, the stem is pushed down, allowing the leaves to com
 ![MX Brown inner working](/assets/images/silent-keyboard/Cherry-MX-Mechanical-Brown-Switch.gif "MX Brown inner working animation")
 {: refdef}
 
-Depending on the [type of switch](https://gaminggem.com/cherry-mx-mechanical-switch-guide/), the actuation force, noise and tactile feedback (the bump in the stem that let the user acknowledge the switch) can vary.
+Depending on the [type of switch](https://gaminggem.com/cherry-mx-mechanical-switch-guide/), the actuation force, noise and tactile feedback (the bump in the stem that lets the user acknowledge the switch) can vary.
 [This blog post from Goat](https://www.theremingoat.com/blog/beginners-guide) is excellent if you want a deeper dive into how switches work.
 
 
